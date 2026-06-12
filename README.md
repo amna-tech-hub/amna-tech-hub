@@ -1,16 +1,23 @@
-## Hi there 👋
+👋 Hi, I'm Amna Abbas
 
-<!--
-**amna-tech-hub/amna-tech-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student at Khawaja Fareed University of Engineering and Information Technology
+💻 MERN Stack Developer | React | Redux | Node.js | MongoDB | Tailwind CSS
+🚀 Building real-world projects and sharing my learning journey
 
-Here are some ideas to get you started:
+My Projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. E-Commerce Shopping Cart
+   Tech: React, Redux, Tailwind CSS
+   Live Demo: https://my-shopping-cart-ivory.vercel.app
+
+2. Airbnb Clone
+   Tech: React, Tailwind CSS
+   Live Demo:https://airbnb-clone-beta-ashy.vercel.app/
+
+Connect With Me:
+
+LinkedIn: www.linkedin.com/in/amna-abbas-90aa4537a
+GitHub: https://github.com/amna-tech-hub
+Email: m.amna.dev@gmail.com
+
+⭐ Open to entry-level developer roles | 📍 Rahimyar Khan, Pakistan

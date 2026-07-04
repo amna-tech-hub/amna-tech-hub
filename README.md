@@ -1,8 +1,8 @@
 👋 Hi, I'm Amna Abbas
 
 🎓 Computer Science Student at Khawaja Fareed University of Engineering and Information Technology
-💻 MERN Stack Developer | React | Redux | Node.js | MongoDB | Tailwind CSS
-🚀 Building real-world projects and sharing my learning journey
+ MERN Stack Developer | React | Redux | Node.js | MongoDB | Tailwind CSS
+ Building real-world projects and sharing my learning journey
 
 My Projects:
 
@@ -20,4 +20,4 @@ LinkedIn: www.linkedin.com/in/amna-abbas-90aa4537a
 GitHub: https://github.com/amna-tech-hub
 Email: m.amna.dev@gmail.com
 
-⭐ Open to entry-level developer roles | 📍 Rahimyar Khan, Pakistan
+ Open to entry-level developer roles |  Rahimyar Khan, Pakistan

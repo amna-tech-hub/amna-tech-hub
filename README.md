@@ -1,4 +1,4 @@
-👋 Hi, I'm Amna Abbas
+Assalam u Alaikum, I'm Amna Abbas
 
 🎓 Computer Science Student at Khawaja Fareed University of Engineering and Information Technology
  MERN Stack Developer | React | Redux | Node.js | MongoDB | Tailwind CSS
